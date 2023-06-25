@@ -2,14 +2,14 @@
 title: United Earth
 description: The federal government of Earth
 published: true
-date: 2023-06-25T07:51:40.022Z
+date: 2023-06-25T07:52:06.176Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-25T07:47:57.536Z
 ---
 
 # United Earth
-Federal government of Earth. Comprised of 24 major states, each of which is itself comprised of dozens or hundreds of smaller states. 
+Federal government of Earth. Comprised of 26 major states, each of which is itself comprised of dozens or hundreds of smaller states. 
 
 ## The Major States of Earth
 
