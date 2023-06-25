@@ -2,7 +2,7 @@
 title: United Earth
 description: The federal government of Earth
 published: true
-date: 2023-06-25T07:47:57.536Z
+date: 2023-06-25T07:51:40.022Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-25T07:47:57.536Z
@@ -24,7 +24,7 @@ Federal government of Earth. Comprised of 24 major states, each of which is itse
 - Federal States of Europe
 - Russian Federation
 - Türkiye
-- Caucasus Conglomerate
+- Caucasus Cooperative
 - Israel
 - Organisation of Islamic Cooperation
 - North African Committee
@@ -34,6 +34,8 @@ Federal government of Earth. Comprised of 24 major states, each of which is itse
 - Organization of Turkic States
 - Pakistan
 - China
+- United Korea
+- Japan
 - ASEAN
 - Pacific Islands Forum
 - Commonwealth of Australia and New Zealand
