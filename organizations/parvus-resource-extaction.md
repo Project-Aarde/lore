@@ -1,8 +1,8 @@
 ---
 title: Parvus Resource Extraction Corporation
-description: A former mining cooperative turned corporate focused one xtracting the wealth and riches of Parvus
+description: A former mining cooperative turned corporate focused on extracting the wealth and riches of Parvus
 published: true
-date: 2023-06-25T10:19:11.714Z
+date: 2023-06-25T10:19:46.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-25T10:19:11.714Z
