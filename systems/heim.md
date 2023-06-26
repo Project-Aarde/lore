@@ -2,7 +2,7 @@
 title: Heim
 description: Home system of the colonists of the UES Aarde
 published: true
-date: 2023-06-26T05:22:38.122Z
+date: 2023-06-26T05:22:59.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-25T05:57:18.457Z
@@ -20,7 +20,7 @@ Single-star system. Contains 12 planets. Some planets have moons, others don't. 
 
 #### Moons
 
--   [Parvus Minor ( Heim Ia )](/planets/heim-ia)
+- [Parvus Minor ( Heim Ia )](/planets/heim-ia)
 
 ### [Defteros ( Heim II )](/planets/heim-ii)
 
